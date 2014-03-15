@@ -1,0 +1,6 @@
+<p>Read, code, and debug your way through our lessons to become a web developer in no time!</p>
+
+in lessons switch, redirect user to login page if not logged in
+--actually, allow lessons to be taken w/out logging in, just don't save progress
+
+link to a sample code editor
