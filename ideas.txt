@@ -4,3 +4,5 @@ in lessons switch, redirect user to login page if not logged in
 --actually, allow lessons to be taken w/out logging in, just don't save progress
 
 link to a sample code editor
+
+navbar as template file
