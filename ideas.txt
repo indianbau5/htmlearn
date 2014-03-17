@@ -6,3 +6,22 @@ in lessons switch, redirect user to login page if not logged in
 link to a sample code editor
 
 navbar as template file
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/ace/1.1.01/ace.js" type="text/javascript"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/ace/1.1.01/mode-html.js" type="text/javascript"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/ace/1.1.01/theme-solarized_dark.js" type="text/javascript"></script>
+
+<!--div class="container">
+			<div class="jumbotron">
+				<h1>Welcome to htmlearn.net!</h1>
+				<p>Learn HTML + CSS and make your own website!</p>
+			</div>
+		</div-->
+		<script>
+			var editor = ace.edit("editor");
+			editor.setTheme("ace/theme/solarized_dark");
+			editor.getSession().setMode("ace/mode/html");
+		</script>
+
+once you reach home page, if signed in, redirect directly to lessons
+<!--Once logged in, redirect user to lessons page-->
