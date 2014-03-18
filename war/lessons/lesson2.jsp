@@ -1,6 +1,6 @@
 <%@ taglib prefix="t" tagdir="/WEB-INF/tags" %>
-<t:lesson name="Lesson 1: An Introduction to HTML and CSS">
+<t:lesson name="Lesson 2: Whet your feet!">
 	<jsp:attribute name="lesson">
-		<p>Lesson 1</p>
+		<p>Lesson 2</p>
 	</jsp:attribute>
 </t:lesson>

@@ -15,18 +15,13 @@
   				</div>
 			</div>
   			<div class="col-lg-4">
-  				<textarea id="html">
-  					<!--This is where a html editor would be-->
-  					<!--I decided to not use codemirror b/c it's horrendous compared to ace-->
-  				</textarea>
+  				<ul class="nav nav-pills" id="tabs">
+  					<li>HTML</li>
+  					<li>CSS</li>
+  				</ul>
   			</div>
   			<div class="col-lg-4">
-  				<textarea id="css">
-  					<!--This is where a css editor would be-->
-  					<!--I decided to not use codemirror b/c it's horrendous compared to ace-->
-				</textarea>
   			</div>
 		</div>
-		<!--A modal will appear with the rendered code once the users submit. an iframe with sandbox-->
 	</jsp:attribute>
 </t:page>

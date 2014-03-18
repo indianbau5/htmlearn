@@ -1,0 +1,18 @@
+!2444;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\appengine-api.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\appengine-api-labs.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\appengine-jsr107cache.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\datanucleus-appengine-1.0.10.final.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\datanucleus-core-1.1.5.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\datanucleus-jpa-1.1.5.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\geronimo-jpa_3.0_spec-1.1.1.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\geronimo-jta_1.1_spec-1.1.1.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\jdo2-api-2.3-eb.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\jsoup-1.7.3.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\jsp-api.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\servlet-api.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\el-api.jar\000\012C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\appengine-local-runtime-shared.jar\000
+s#j0C:\\Users\\Siva\\Documents\\GitHub\\htmlearn\\war\\WEB-INF\\lib\\appengine-api.jar
+s#l0
+s#n0/war/WEB-INF/classes/
+!33;g
+%\011src%shtmlearn%sLessons.java
+!33;f
+%\011src%shtmlearn%sLessons.java
